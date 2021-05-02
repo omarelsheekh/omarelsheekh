@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Hi 👋, I'm Omar Elsheekh
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/omarelsheekh/)
+### DevOps & Software Engineer
+### 📫 Want to hire me?  
+   [View Resume](/resume.md)
 <!--
 **omarelsheekh/omarelsheekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
