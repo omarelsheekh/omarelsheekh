@@ -1,9 +1,10 @@
 # Omar Elsheekh
 - omarelsheekh98@gmail.com
 - https://linkedin.com/in/omarelsheekh
+- https://t.me/omarelsheekh
 
 ## Experience  
-- AWS Cloud DevOps Engineer	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Udacity**    
+- **AWS Cloud DevOps Engineer	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Udacity**    
 Feb 2021 – Apr 2021  
 Cloud Computing, CloudFormation, Networking Infrastructure, Servers and Security Groups, Storage and Databases, CI/CD CircleCi, Monitoring, Docker, Microservices, Kubernetes.  [Certificate](https://confirm.udacity.com/T9HU72ZR)
 - **Advanced Web Dev Nanodegree	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Udacity**  
