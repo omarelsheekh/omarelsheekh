@@ -4,6 +4,12 @@
 - https://t.me/omarelsheekh
 
 ## Experience  
+- **DevOps Engineer Intern	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instabug**    
+Aug 2021 – Oct 2021  
+  - Hardened Jenkins Server On Production
+  - Hardened OS Images with CIS tools
+  - Created an automation code with ansible and terraform to create high available nexus repo cluster
+  - Tools used: Ansible, Packer, Terraform, Nginx, Jenkins, Jira & AWS (EC2, ELB, S3, Cloudwatch, Route53 & IAM)
 - **AWS Cloud DevOps Engineer	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Udacity**    
 Feb 2021 – Apr 2021  
 Cloud Computing, CloudFormation, Networking Infrastructure, Servers and Security Groups, Storage and Databases, CI/CD CircleCi, Monitoring, Docker, Microservices, Kubernetes.  [Certificate](https://confirm.udacity.com/T9HU72ZR)
